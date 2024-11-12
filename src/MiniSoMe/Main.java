@@ -2,6 +2,7 @@ package MiniSoMe;
 
 public class Main {
 
+
     public static void main(String[] args) {
         User userMathias = new User("Mathias");
         Post postMathias = new Post("Jeg er Mathias",userMathias);
